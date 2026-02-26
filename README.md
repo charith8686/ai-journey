@@ -6,3 +6,5 @@ Created GitHub account.
 Uploaded first Python string programs.
 Built menu based string program.
 Started consistency.
+Day 2:
+Practiced list basic programs.
