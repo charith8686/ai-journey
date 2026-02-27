@@ -8,3 +8,6 @@ Built menu based string program.
 Started consistency.
 Day 2:
 Practiced list basic programs.
+Day 3:
+Learned functions basics.
+Built function programs.
